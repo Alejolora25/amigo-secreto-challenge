@@ -52,7 +52,6 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
    git add README.md
    git commit -m "Agregando README al proyecto"
    git push origin main
-¡Listo! Ahora tu repo tendrá un README claro y profesional. 🚀💡
 
 
 ## 📸 Vista Previa
