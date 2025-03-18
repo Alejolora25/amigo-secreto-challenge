@@ -61,7 +61,7 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 ![Pantalla Inicial](assets/pantalla-inicial.png)
 
 ### Agregando un Amigo
-![Agregando Amigo](assets/agregando-amigo.png)
+![Agregando Amigo](assets/agregando-amigos.png)
 
 ### Sorteando
 ![Sorteando](assets/sorteando.png)
