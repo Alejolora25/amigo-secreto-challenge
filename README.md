@@ -42,18 +42,6 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 💡 Desarrollado con pasión por @Alejolora25.
 
 
-
-### 📌 Pasos para agregarlo a tu repo:
-
-1. Guarda este contenido en un archivo llamado `README.md`.
-2. Sube los cambios con los siguientes comandos en Git Bash:
-
-   ```sh
-   git add README.md
-   git commit -m "Agregando README al proyecto"
-   git push origin main
-
-
 ## 📸 Vista Previa
 
 ### Pantalla Inicial
