@@ -55,3 +55,16 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 ¡Listo! Ahora tu repo tendrá un README claro y profesional. 🚀💡
 
 
+## 📸 Vista Previa
+
+### Pantalla Inicial
+![Pantalla Inicial](assets/pantalla-inicial.png)
+
+### Agregando un Amigo
+![Agregando Amigo](assets/agregando-amigo.png)
+
+### Sorteando
+![Sorteando](assets/sorteando.png)
+
+### Resultado Final
+![Ganador](assets/ganador.png)
